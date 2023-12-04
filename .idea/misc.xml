@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="C:\Users\jszxr\anaconda3" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="C:\Users\jszxr\anaconda3" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="$USER_HOME$/anaconda3 (2)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="$USER_HOME$/anaconda3 (2)" project-jdk-type="Python SDK" />
+>>>>>>> 1ca60d8 (Add jeongin.txt)
 </project>
